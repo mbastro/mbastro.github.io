@@ -108,6 +108,8 @@ textarea {
      background-size:cover;
      margin-bottom:5px;
      background-position:center;
+     background-repeat:no-repeat;
+     background-color: #000;
    }
    .hero * {
      color:#fff; background:rgba(30,30,30,0.7);
@@ -214,6 +216,7 @@ textarea {
       height:8em;
       margin:10px;
       background-size:cover;
+      background-position: center;
     }
     .nextLaunch h2 {
       margin:10px 0 0;
